@@ -1,1 +1,1 @@
-[Andreas Ludviksen on GitHub]https://github.com/AndreasLudviksen
+[Andreas Ludviksen on GitHub](https://github.com/AndreasLudviksen)
